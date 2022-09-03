@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1644344222 source:c:\users\mehdi murtaza\desktop\library\main.cpp
+	<vector>
+	<list>
+	<string.h>
+	<windows.h>
+	<bits/stdc++.h>
+
